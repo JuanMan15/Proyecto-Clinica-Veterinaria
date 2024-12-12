@@ -1,0 +1,303 @@
+D:\VS projekti\C# projekti\PetFriends\PetFriends\bin\Debug\PetFriends.exe.config
+D:\VS projekti\C# projekti\PetFriends\PetFriends\bin\Debug\PetFriends.exe
+D:\VS projekti\C# projekti\PetFriends\PetFriends\bin\Debug\PetFriends.pdb
+D:\VS projekti\C# projekti\PetFriends\PetFriends\bin\Debug\Guna.UI2.dll
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.csproj.GenerateResource.cache
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.csproj.CoreCompileInputs.cache
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.csproj.CopyComplete
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.exe
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.pdb
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.RegLog.resources
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.UserDash.resources
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+D:\VS projekti\C# projekti\PetFriends\PetFriends\obj\Debug\PetFriends.GalleryUserControl.resources
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.csproj.AssemblyReference.cache
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\PetFriends.exe.config
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\Guna.UI2.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.GalleryUserControl.resources
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.RegLog.resources
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.UserDash.resources
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.csproj.GenerateResource.cache
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\obj\Debug\PetFriends.csproj.Up2Date
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\Google.Protobuf.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\MySql.Data.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Buffers.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Memory.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\ZstdSharp.dll
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\Google.Protobuf.pdb
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\Google.Protobuf.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\MySql.Data.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Buffers.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Memory.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Cardenas\Desktop\Pet-Friends-Management-System-master\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\PetFriends.exe.config
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\Guna.UI2.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.csproj.AssemblyReference.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.RegLog.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.UserDash.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.csproj.GenerateResource.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.csproj.Up2Date
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\Google.Protobuf.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\MySql.Data.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Buffers.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Memory.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\ZstdSharp.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\Google.Protobuf.pdb
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\Google.Protobuf.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\MySql.Data.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Buffers.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Memory.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\PetFriends.exe.config
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\PetFriends.exe
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\PetFriends.pdb
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\Google.Protobuf.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\Guna.UI2.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\MySql.Data.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Buffers.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.IO.Pipelines.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Memory.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\ZstdSharp.dll
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\Google.Protobuf.pdb
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\Google.Protobuf.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\MySql.Data.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Buffers.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.IO.Pipelines.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Memory.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.csproj.AssemblyReference.cache
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.GalleryUserControl.resources
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.RegLog.resources
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.UserDash.resources
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.csproj.GenerateResource.cache
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.csproj.CoreCompileInputs.cache
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.csproj.Up2Date
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.exe
+C:\Users\bg516\Downloads\PetShop\project-poo-petshop\PetFriends\obj\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.csproj.AssemblyReference.cache
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.RegLog.resources
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.UserDash.resources
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.csproj.GenerateResource.cache
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\PetFriends.exe.config
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\Google.Protobuf.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\Guna.UI2.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\MySql.Data.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Buffers.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Memory.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\ZstdSharp.dll
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\Google.Protobuf.pdb
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\Google.Protobuf.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\MySql.Data.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Buffers.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Memory.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.csproj.Up2Date
+C:\Users\Juan Cardenas\Desktop\TAREAS Y COSAS ESCUELA\3ER SEMESTRE\Programacion\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.ProductUserControl.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\PetFriends.exe.config
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\Google.Protobuf.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\Guna.UI2.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\MySql.Data.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Buffers.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Memory.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\ZstdSharp.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\Google.Protobuf.pdb
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\Google.Protobuf.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\MySql.Data.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Buffers.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Memory.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.csproj.AssemblyReference.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.ProductUserControl.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.RegLog.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.UserDash.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.csproj.GenerateResource.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.csproj.Up2Date
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.UserControlVenta.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project#2\PetFriends\obj\Debug\PetFriends.UserAccountControl.resources
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\PetFriends.exe.config
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\Google.Protobuf.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\Guna.UI2.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\MySql.Data.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Buffers.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Memory.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\ZstdSharp.dll
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\Google.Protobuf.pdb
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\Google.Protobuf.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\MySql.Data.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Buffers.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Memory.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.csproj.AssemblyReference.cache
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.ProductUserControl.resources
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.RegLog.resources
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.UserAccountControl.resources
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.UserControlVenta.resources
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.UserDash.resources
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.csproj.GenerateResource.cache
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.csproj.Up2Date
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\Files\3ER_SEMESTRE\POO\Parcial-3\project-poo-petshop-2\PetFriends\obj\Debug\PetFriends.pdb

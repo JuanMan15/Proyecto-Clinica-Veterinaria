@@ -1,0 +1,15 @@
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\PetFriends.exe.config
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\PetFriends.pdb
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\bin\Debug\Guna.UI2.dll
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\Project-veterinaria.csproj.AssemblyReference.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.GalleryUserControl.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.PetUserControl.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.RegLog.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.Properties.Resources.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.UserDash.resources
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\Project-veterinaria.csproj.GenerateResource.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\Project-veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\Project-.79F94595.Up2Date
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.exe
+C:\Users\Juan Cardenas\Desktop\pet-shop-project\PetFriends\obj\Debug\PetFriends.pdb
